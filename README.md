@@ -11,5 +11,5 @@ Great learning coding assignment
   In case of other OS please refer https://www.oracle.com/java/technologies/downloads/  
   
 4) After importing the project in IDE(Intellij), set the SDK version by going to File->project structure->SDK. choose from the dropDown.
-5) Now run the main method in the project to run the program and provide the details in console to test the source code of the game.    
+5) Now run the main method inside Main.java class of the project to run the program and provide the details in console to test the source code of the game.    
 
